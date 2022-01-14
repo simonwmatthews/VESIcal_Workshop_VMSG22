@@ -9,3 +9,7 @@ To run the exercises in your web browser, launch binder here:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simonwmatthews/VESIcal_Workshop_VMSG22/HEAD)
 
 Note, there are some deprecation warnings generated when some of the cells are run, you can ignore these!
+
+## Videos
+
+Recordings of the lectures and demonstrations will be coming soon! For now, [here](https://youtu.be/wS-jIbPMItE) is a video showing you how to access the workshop resources using the "launch binder" button above.
