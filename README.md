@@ -11,5 +11,28 @@ To run the exercises in your web browser, launch binder here:
 Note, there are some deprecation warnings generated when some of the cells are run, you can ignore these!
 
 ## Videos
+Recordings of the lectures and exercises are available on the links below. The presentation slides are available in this repository.
 
-Recordings of the lectures and demonstrations will be coming soon! For now, [here](https://youtu.be/wS-jIbPMItE) is a video showing you how to access the workshop resources using the "launch binder" button above.
+[Exercise 0](https://youtu.be/wS-jIbPMItE) - How to access the practical exercises using Binder
+
+[Lecture 1](https://youtu.be/4h_SsceeWRk) - Introduction to volatile solubility in magmas
+
+[Lecture 2](https://youtu.be/6Uj9rJ3Kz1M) - Python & open source code
+
+[Exercise 1](https://youtu.be/6Uj9rJ3Kz1M) - Introduction to python and Jupyter Lab
+
+[Lecture 3](https://youtu.be/_-RYSL_2Bso) - Solubility models through the years
+
+[Exercise 2](https://youtu.be/YcnX0Xauogs) - Using VESIcal in a Jupyter Notebook
+
+[Lecture 4](https://youtu.be/WNKiTZTUSHI) - Comparing solubility models
+
+[Exercise 3](https://youtu.be/p4Eacn2HlTs) - Batch calculations
+
+[Lecture 5](https://youtu.be/ucN3n2HQEmg) - How to deal with model differences
+
+[Exercise 4](https://youtu.be/TE4nfUnVCGY) - Degassing paths
+
+[Lecture 6](https://youtu.be/_igJ_4etMhM) - Accounting for CO<sub>2</sub> in arc magmas
+
+[Exercise 5](https://youtu.be/iLP94GevHSA) - Sensitivity Testing
