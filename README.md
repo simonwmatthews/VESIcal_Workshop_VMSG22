@@ -19,11 +19,11 @@ Recordings of the lectures and exercises are available on the links below. The p
 
 [Lecture 2](https://youtu.be/6Uj9rJ3Kz1M) - Python & open source code
 
-[Exercise 1](https://youtu.be/6Uj9rJ3Kz1M) - Introduction to python and Jupyter Lab
+[Exercise 1](https://youtu.be/_-RYSL_2Bso) - Introduction to python and Jupyter Lab
 
-[Lecture 3](https://youtu.be/_-RYSL_2Bso) - Solubility models through the years
+[Lecture 3](https://youtu.be/YcnX0Xauogs) - Solubility models through the years
 
-[Exercise 2](https://youtu.be/YcnX0Xauogs) - Using VESIcal in a Jupyter Notebook
+[Exercise 2](https://youtu.be/zyZ9i3AS_BM) - Using VESIcal in a Jupyter Notebook
 
 [Lecture 4](https://youtu.be/WNKiTZTUSHI) - Comparing solubility models
 
